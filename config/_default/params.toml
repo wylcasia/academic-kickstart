@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yunlong.wang@cripac.ia.ac.cn"
-phone = "+86 18813103622"
+phone = "+86 (010)82544489"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -90,7 +90,7 @@ address = {street = "No.95 ZhongGuanCun East Street, HaiDian District", city = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "39.9791", longitude = "116.3334"}
 
 # Directions for visitors to locate you.
 directions = "15th floor of Intelligent Building"

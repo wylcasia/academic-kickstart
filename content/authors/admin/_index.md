@@ -18,7 +18,7 @@ organizations:
   url: "http://cripac.ia.ac.cn/CN/column/item165.shtml"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yunlong Wang is currently an Assistant Professor with Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA) , China. He received the B.E. degree and the Ph.D. degree in Department of Automation, University of Science and Technology of China. His research focuses on pattern recognition, machine learning, light field photography and biometrics.
+bio: Yunlong Wang is currently an Assistant Professor with [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://www.cripac.ia.ac.cn/CN/model/index.htm), [National Laboratory of Pattern Recognition (NLPR)](http://www.nlpr.ia.ac.cn ), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) , China. He received the B.E. degree and the Ph.D. degree in [Department of Automation](https://auto.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). His research focuses on pattern recognition, machine learning, light field photography and biometrics.
 
 interests:
 - Computational Imaging
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Yunlong Wang is currently an Assistant Professor with Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA) , China. He received the B.E. degree and the Ph.D. degree in Department of Automation, University of Science and Technology of China. His research focuses on pattern recognition, machine learning, light field photography and biometrics.
+Yunlong Wang is currently an Assistant Professor with [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://www.cripac.ia.ac.cn/CN/model/index.htm), [National Laboratory of Pattern Recognition (NLPR)](http://www.nlpr.ia.ac.cn ), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) , China. He received the B.E. degree and the Ph.D. degree in [Department of Automation](https://auto.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). His research focuses on pattern recognition, machine learning, light field photography and biometrics.
